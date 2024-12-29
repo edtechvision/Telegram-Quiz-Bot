@@ -2,9 +2,9 @@
 import ngrok
 
 
-QUIZ_BOT_NAME = "SAMPLE BOT NAME"
-NGROK_TOKEN = "YOUR NGROK AUTH TOKEN"
-API_KEY = "YOUR TELEGRAM QUIZ BOT API KEY"
+QUIZ_BOT_NAME = "Target Board official Bot"
+NGROK_TOKEN = "2bonfQqluhxLYozUGfEYLCZFMcD_2PSxEfUcErbSe8d7vBJfw"
+API_KEY = "7786340454:AAE0-KY5FkpVj9TRHD7YzxhnTQ21AGdYov0"
 
 _update_ = {
     "update":"webhook integration-1",
