@@ -3,7 +3,7 @@ import ngrok
 
 
 QUIZ_BOT_NAME = "Target Board official Bot"
-NGROK_TOKEN = "2bonfQqluhxLYozUGfEYLCZFMcD_2PSxEfUcErbSe8d7vBJfw"
+NGROK_TOKEN = "2qteLYgvgJx8WDAUflzGuV3ds55_7QcJBvKmDGWiDBSWN9uKU"
 API_KEY = "7786340454:AAE0-KY5FkpVj9TRHD7YzxhnTQ21AGdYov0"
 
 _update_ = {
